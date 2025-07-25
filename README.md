@@ -3,9 +3,6 @@
 <h3 align="center">A person who loves scientific research and exploration!</h3>
 <h3 align=“center”>热爱科学研究和探索的人！</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kevin-jto&label=Profile%20views&color=0e75b6&style=flat" alt="kevin-jto" /> </p>
-<p align=“left”> <img src=“https://komarev.com/ghpvc/?username=kevin-jto&label=Profile%20views&color=0e75b6&style=flat” alt=“kevin-jto” /> </p>
-
 - 📫 How to reach me **120223502016@stu.ustl.edu.cn**
 
 <h3 align="left">Connect with me:</h3>
