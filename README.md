@@ -5,7 +5,3 @@
 
 - 📫 How to reach me **120223502016@stu.ustl.edu.cn**
 
-<h3 align="left">Connect with me:</h3>
-<h3 align=“left”>与我联系：</h3>
-<p align="left">  <p align=“left”>
-</p>
